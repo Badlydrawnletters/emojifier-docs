@@ -4,22 +4,19 @@
 - [Bot and Website Status](status.md)
 
 ---
-- ❯ **PUBLIC COMMANDS**
-- [Bug Report](all/bugreport.md)
+- ❯ **SLASH COMMANDS**
 - [Changelog](all/changelog.md)
 - [Convert](all/convert.md)
-- [Convert Bless](all/convertbless.md)
-- [Convert Clap](all/convertclap.md)
-- [Convert Dancing](all/convertdancing.md)
-- [Convert Default](all/convertdefault.md)
-- [Convert Doggo](all/convertdoggo.md)
-- [Convert Ghost](all/convertghost.md)
-- [Convert Heart](all/convertheart.md)
-- [Convert Kitty](all/convertkitty.md)
-- [Convert OhNo](all/convertohno.md)
-- [Convert Scrabble](all/convertscrabble.md)
-- [Convert Wumpus](all/convertwumpus.md)
-- [Convert Wumpus 2](all/convertwumpus2.md)
+- [Bless](all/bless.md)
+- [Dancing](all/dancing.md)
+- [Default](all/default.md)
+- [Doggo](all/doggo.md)
+- [Ghost](all/ghost.md)
+- [Kitty](all/kitty.md)
+- [OhNo](all/ohno.md)
+- [Scrabble](all/scrabble.md)
+- [Wumpus](all/wumpus.md)
+- [Wumpus 2](all/wumpus2.md)
 - [Discovery](all/discovery.md)
 - [Help](all/help.md)
 - [Invite](all/invite.md)
@@ -27,16 +24,10 @@
 - [Shard](all/shard.md)
 - [Stats](all/stats.md)
 - [Subscribe](all/subscribe.md)
-- [Suggest](all/suggest.md)
 - [Support](all/support.md)
 - [User Info](all/userinfo.md)
 - [Verify](all/verify.md)
 - [Vote](all/vote.md)
-
----
-
-- ❯ **STAFF COMMANDS**
-- [Set Prefix](staff/setprefix.md)
 
 ---
 
